@@ -4,7 +4,8 @@ A simple and responsive To-Do List built using **HTML**, **CSS**, and **Vanilla 
 
 
  📸 Preview
-![Screenshot 2025-05-27 225817](https://github.com/user-attachments/assets/3cf4098f-f124-45fb-929a-3d615d305b76)
+![Screenshot 2025-05-27 231213](https://github.com/user-attachments/assets/54eb6054-d7c5-416b-824a-9d56042d7766)
+
 
 
 🚀 Features
